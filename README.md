@@ -8,7 +8,7 @@ The dashboard helps transform raw sales data into actionable insights that suppo
 
 ---
 ## 📊 Dashboard
-![Dashboard](images/Sales Dashboard.png)
+![Dashboard](images/sales-dashboard.png)
 
 
 # Project Objectives
